@@ -6,7 +6,6 @@ In this repository you will find the final code that was produced during the pro
 
 [![ToDo List Workshop](Media/todolistthumbnail.png)](https://vimeo.com/294684012)
 
-<iframe src="https://player.vimeo.com/video/294684012" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 # ToDo List Walkthrough
